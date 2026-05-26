@@ -2,6 +2,13 @@
 
 AI-powered job search system built with Google Agent Development Kit (ADK) for targeting finance/FP&A roles in India.
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Google ADK](https://img.shields.io/badge/Google-ADK-green)
+![Playwright](https://img.shields.io/badge/Playwright-Web_Scraping-orange)
+![DuckDuckGo](https://img.shields.io/badge/Search-DuckDuckGo-yellow)
+![Google Sheets API](https://img.shields.io/badge/Google_Sheets-API-success)
+![Gmail API](https://img.shields.io/badge/Gmail-API-red)
+
 ## Features
 
 - **Job Discovery** - Web search (DuckDuckGo) for live job openings
