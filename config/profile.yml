@@ -1,0 +1,67 @@
+candidate:
+  name: "Chandan Tiwari"
+  experience_years: 2
+  biggest_proof_points:
+    - "Identified INR 25L+ in budget cost deviations through GL variance analysis at Incedo Inc"
+    - "Built Excel VBA automation cutting errors by 30% and saving 10+ hours/month"
+    - "Improved financial reporting accuracy by 15% across 5+ internal systems"
+
+target_criteria:
+  roles:
+    - "fp&a analyst"
+    - "financial planning analyst"
+    - "finance analyst"
+    - "finance associate"
+    - "assistant manager finance"
+    - "assistant manager accounts"
+    - "r2r analyst"
+    - "record to report"
+    - "finance operations analyst"
+    - "mis reporting analyst"
+    - "p&l analyst"
+    - "budgeting analyst"
+    - "variance analysis"
+  industries:
+    - "fintech"
+    - "nbfc"
+    - "lending"
+    - "housing finance"
+    - "ai/saas"
+    - "startups"
+    - "technology consulting"
+    - "it consulting"
+    - "shared services"
+    - "banking"
+    - "financial services"
+  locations:
+    - "delhi"
+    - "gurugram"
+    - "gurgaon"
+    - "noida"
+    - "delhi ncr"
+    - "aerocity"
+    - "new delhi"
+
+  skills:
+    - "excel"
+    - "vba"
+    - "macros"
+    - "power bi"
+    - "financial modelling"
+    - "variance analysis"
+    - "budgeting"
+    - "forecasting"
+    - "p&l"
+    - "gl reconciliation"
+    - "mis"
+    - "gst"
+    - "tds"
+    - "tally"
+    - "sap"
+    - "xlookup"
+    - "pivot tables"
+
+dealbreakers:
+  require_ca: true
+  night_shifts: true
+  max_experience_limit: 4

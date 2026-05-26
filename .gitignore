@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+.pytest_cache/
+
+# Environment
+.env
+.env.local
+*.local
+
+# Google credentials
+credentials.json
+token.json
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Career-Ops specific
+data/
+reports/
+output/
+jds/
+
+# Playwright
+.playwright/
+
+# Node (if using career-ops node scripts)
+node_modules/
+package-lock.json
+
+# Logs
+*.log
