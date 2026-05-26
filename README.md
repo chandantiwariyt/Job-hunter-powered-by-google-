@@ -117,6 +117,11 @@ Get spreadsheet ID from URL:
 - **No search results**: Check internet connection, try VPN
 - **Google auth fails**: Delete `token.json` and re-run
 - **Import errors**: Run `pip install -r requirements.txt`
+---
+
+## 👤 Author
+Built by **Chandan Tiwari** — [LinkedIn](https://www.linkedin.com/in/chandantiwari4/) · [GitHub](https://github.com/chandantiwariyt)
+---
 
 ## License
 
